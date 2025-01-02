@@ -10,10 +10,11 @@
 
 
 ## Make & Execute
-1. Download all code(or clone the code)
-    > There is an extra file `MinGW.zip`, you can download it from [here](https://drive.google.com/file/d/1FSgx6IQebsziu2vYENt-Jz2YVg7aVoX4/view?usp=sharing)
+1. Download code.zip (or clone)
+    > There has an extra file `MinGW.zip`, you can download it from [here](https://drive.google.com/file/d/1FSgx6IQebsziu2vYENt-Jz2YVg7aVoX4/view?usp=sharing)
 2. Extract code and Extract the `MinGW.zip`, `allegro.zip` file in the Extract code directory
-3. cd to the code root directory
+    > The `MinGW.zip` should put into the directory of the extract code.zip
+3. cd into root directory
 4. `make`
-5. make a copy of the file in `/libs` to the root directory
+5. make a copy of the files in `/libs` to the root directory
 6. `.\game.exe`
