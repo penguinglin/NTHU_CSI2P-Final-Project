@@ -18,3 +18,6 @@
 4. `make`
 5. make a copy of the files in `/libs` to the root directory
 6. `.\game.exe`
+
+
+> I would like to express my heartfelt gratitude to my dear roommate, who provided the main structure for this project. My contribution focused on refactoring the scene manager into an object-oriented architecture.
