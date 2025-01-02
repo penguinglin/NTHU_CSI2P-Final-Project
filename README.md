@@ -1,5 +1,4 @@
-# Introduction to Programming II Final Project Template
-> Class Hwann-Tzong Chen
+# NTHU_CSI2P-Final-Project
 
 ## Resource
 
